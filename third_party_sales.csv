@@ -1,0 +1,31 @@
+ticket_id,trans_date,event_id,event_name,event_date,event_type,event_city,customer_id,price,num_tickets
+1,20260315,101,Concert A,2026-03-20,Music,New York,1001,50.00,2
+2,20260318,102,Basketball Game,2026-03-22,Sports,Chicago,1002,75.00,4
+3,20260319,101,Concert A,2026-03-20,Music,New York,1003,50.00,1
+4,20260321,103,Theater Show,2026-03-25,Theater,Boston,1004,60.00,3
+5,20260324,102,Basketball Game,2026-03-22,Sports,Chicago,1005,75.00,2
+6,20260326,104,Comedy Night,2026-03-28,Comedy,Austin,1006,40.00,5
+7,20260316,105,Rock Festival,2026-03-30,Music,Los Angeles,1007,120.00,6
+8,20260317,106,Baseball Game,2026-03-29,Sports,Houston,1008,55.00,3
+9,20260318,105,Rock Festival,2026-03-30,Music,Los Angeles,1009,120.00,4
+10,20260319,107,Opera Night,2026-03-27,Theater,San Francisco,1010,150.00,2
+11,20260320,104,Comedy Night,2026-03-28,Comedy,Austin,1011,40.00,3
+12,20260321,102,Basketball Game,2026-03-22,Sports,Chicago,1012,75.00,5
+13,20260322,108,Soccer Match,2026-03-26,Sports,Miami,1013,65.00,4
+14,20260323,108,Soccer Match,2026-03-26,Sports,Miami,1014,65.00,2
+15,20260324,109,EDM Festival,2026-03-31,Music,Las Vegas,1015,200.00,7
+16,20260325,109,EDM Festival,2026-03-31,Music,Las Vegas,1016,200.00,5
+17,20260326,101,Concert A,2026-03-20,Music,New York,1017,50.00,4
+18,20260327,106,Baseball Game,2026-03-29,Sports,Houston,1018,55.00,2
+19,20260328,104,Comedy Night,2026-03-28,Comedy,Austin,1019,40.00,6
+20,20260329,103,Theater Show,2026-03-25,Theater,Boston,1020,60.00,4
+21,20260330,110,Jazz Night,2026-03-30,Music,New Orleans,1021,80.00,3
+22,20260331,110,Jazz Night,2026-03-30,Music,New Orleans,1022,80.00,5
+23,20260401,111,Hockey Game,2026-04-02,Sports,Denver,1023,90.00,4
+24,20260402,111,Hockey Game,2026-04-02,Sports,Denver,1024,90.00,3
+25,20260403,112,Stand-up Special,2026-04-05,Comedy,Seattle,1025,45.00,6
+26,20260404,112,Stand-up Special,2026-04-05,Comedy,Seattle,1026,45.00,4
+27,20260405,113,Pop Concert,2026-04-06,Music,Atlanta,1027,110.00,5
+28,20260406,113,Pop Concert,2026-04-06,Music,Atlanta,1028,110.00,3
+29,20260407,102,Basketball Game,2026-03-22,Sports,Chicago,1029,75.00,6
+30,20260408,109,EDM Festival,2026-03-31,Music,Las Vegas,1030,200.00,8
